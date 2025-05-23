@@ -1,19 +1,16 @@
 <div align="center">
-  <h1 align="center">Ciampitti Lab</h1>
 
-  <br/>
+# 🌱 Ciampitti Lab  
+### *Advancing Agriculture Through Science & Technology*
+[![Website](https://img.shields.io/badge/Website-ciampitti--lab.github.io-27ae60?style=for-the-badge&logo=githubpages&logoColor=white)](https://ciampitti-lab.github.io)
 
-  Welcome to the Ciampitti Lab GitHub!  
-  We are a research group pushing the frontiers of crop physiology, digital agriculture, and data‑driven farming systems.  
-  Our mission is to integrate new technologies and data science to improve the prediction and management of farming systems for the benefit of growers worldwide.
 
-  <br/><br/>
+---
 
-  <b>Research focus</b>: Crop Physiology • Cropping Systems • Crop Modeling • Remote Sensing & Digital Farming • Analytical Methods • Extension
+Welcome to the **Ciampitti Lab GitHub**! We are a research group pushing the frontiers of crop physiology, digital agriculture, and data-driven farming systems. Our mission is to integrate new technologies and data science to improve the prediction and management of farming systems for the benefit of growers worldwide.
 
-  <br/><br/>
+## 🔬 Research Focus
+**🌾 Cropping Systems&nbsp;&nbsp;•&nbsp;&nbsp;🖥️ Crop Modeling**  
+**🎓 Extension&nbsp;&nbsp;•&nbsp;&nbsp;🛰️ Remote Sensing & Digital Farming**
 
-  🔗 <b>Legacy website</b>: <a href="https://ciampittilab.wixsite.com/ciampitti-lab">ciampittilab.wixsite.com/ciampitti-lab</a><br/>
-  🚧 <b>Note</b>: This GitHub organization and our new website are under construction—stay tuned for updates!
 </div>
-
